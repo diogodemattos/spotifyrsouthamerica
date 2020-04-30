@@ -1,2 +1,2 @@
 # spotifyrsouthamerica
-Sentiment Analyses of musical taste in South America
+Sentiment analyses of musical taste in South America
